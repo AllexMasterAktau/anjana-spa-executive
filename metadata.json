@@ -1,0 +1,6 @@
+{
+  "name": "Anjana SPA Revenue & Strategy Dashboard",
+  "description": "Interactive Revenue Optimization, Capacity Management, and Low-Season Marketing Strategy Platform for Rixos Water World Aktau 5*",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
